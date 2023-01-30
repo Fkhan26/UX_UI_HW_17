@@ -28,6 +28,7 @@
 .footer {
     display: inline-block;
     padding: 25px;
-    background-color: #373738
+    background-color: #373738;
+    vertical-align: top;
 }
 
